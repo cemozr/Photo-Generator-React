@@ -1,0 +1,6 @@
+.image-list-container {
+  columns: 250px 4;
+  column-gap: 20px;
+  width: 100%;
+  overflow: hidden;
+}
