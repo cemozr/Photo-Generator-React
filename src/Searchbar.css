@@ -3,9 +3,10 @@ form {
   margin: 5px;
   display: flex;
   flex-direction: column;
-  border: 1px solid;
+
   border-radius: 5px;
-  box-shadow: 2px 2px 5px gray;
+  box-shadow: 2px 2px 5px rgb(54, 53, 53);
+  background-color: #dbe2ef;
 }
 label {
   margin-bottom: 5px;
@@ -14,11 +15,12 @@ label {
   font-weight: bold;
   font-size: larger;
   margin-bottom: 10px;
-  text-shadow: 2px 2px 5px gray;
+  text-shadow: 1px 1px 2px gray;
 }
 input {
   padding: 10px;
   border-radius: 5px;
+  border-style: none;
   text-transform: uppercase;
   font-weight: bold;
 }
